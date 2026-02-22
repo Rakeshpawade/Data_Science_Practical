@@ -10,15 +10,16 @@
    ✅ Expand your career options (Data Analyst / Data Scientist / AI Engineer)
    ✅ Help in building ML-powered web apps
    ✅ Increase your salary opportunities
+   
 🔹 What is Python?
   Python is a high-level, interpreted, and general-purpose programming language created by Guido van Rossum in 1991.
-
             It is known for:
 
                   ✅ Simple and readable syntax
                   ✅ Easy learning curve
                   ✅ Large standard library
                   ✅ Strong community support
+                  
 🔹 Features of Python
                     ✅ Easy to Read & Write
                     ✅ Interpreted Language 
@@ -26,6 +27,7 @@
                     ✅ Object-Oriented 
                     ✅ Platform Independent 
                     ✅ Open Source 
+                    
 🐍 Install Anaconda & Jupyter Notebook to Run .ipynb Files
                 📥 Installation Steps (Windows)
 
